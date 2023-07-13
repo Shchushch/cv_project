@@ -1,6 +1,6 @@
 import streamlit as st
 from PIL import Image
-
+from neiro import get_digit
 info=("Вставить описание")
 
 def update_slider():

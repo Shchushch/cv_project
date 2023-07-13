@@ -1,6 +1,6 @@
 import streamlit as st
 from PIL import Image
-
+from neiro import get_tumor
 info=("Вставить описание")
 
 if st.button("Что это такое?",type='secondary'):
