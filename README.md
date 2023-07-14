@@ -12,7 +12,11 @@
 
 Реализовать приложение на основе платформы Streamlit, предназначенное для обработки и анализа изображений.
 
-### 
+## Использованные инструмены
+
+1. Датасеты: MNIST, Brain tumor object detection, Object Detection Dataset - Wind Turbines.
+2. Модели: Conditional GAN, YOLOv5, YOLOv8, автоэнкодер
+3. Деплоймент: Streamlit
 
 
 
